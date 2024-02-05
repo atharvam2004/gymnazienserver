@@ -1,0 +1,28 @@
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T19:32:11.519Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T19:32:11.596Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/events 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T19:35:53.140Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T19:40:41.089Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T19:40:41.131Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T19:41:30.905Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T19:41:30.981Z"}
+error: 
+    status - 500 
+    message - ValidationError: "name" is required 
+    url - /api/v1/events 
+    method - POST 
+    IP - ::1
+   {"timestamp":"2024-02-02T19:41:35.948Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T19:43:35.116Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T19:43:35.149Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T19:46:28.193Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T19:46:28.229Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-02T19:46:51.150Z"}
+info: Connected to the database. {"timestamp":"2024-02-02T19:46:51.198Z"}
+info: Server started at http://localhost:3000/api/v1/ {"timestamp":"2024-02-03T06:30:20.970Z"}
+info: Connected to the database. {"timestamp":"2024-02-03T06:30:21.040Z"}

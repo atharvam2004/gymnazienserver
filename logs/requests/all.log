@@ -1,0 +1,18 @@
+info: ::1 - - [03/Feb/2024:06:32:45 +0000] "POST /api/v1/events HTTP/1.1" 201 152 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:42:31 +0000] "POST /api/v1/events HTTP/1.1" 500 33 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:42:35 +0000] "POST /api/v1/events HTTP/1.1" 500 33 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:44:11 +0000] "POST /api/v1/events HTTP/1.1" 500 33 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:44:18 +0000] "POST /api/v1/events HTTP/1.1" 500 33 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:46:24 +0000] "POST /api/v1/events HTTP/1.1" 201 180 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:46:42 +0000] "POST /api/v1/events HTTP/1.1" 201 180 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [03/Feb/2024:06:46:44 +0000] "POST /api/v1/events HTTP/1.1" 201 180 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [04/Feb/2024:18:46:19 +0000] "POST /api/v1/events HTTP/1.1" 201 832 "-" "PostmanRuntime/7.36.1"
+

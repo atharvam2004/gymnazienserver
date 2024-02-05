@@ -1,0 +1,6 @@
+info: ::1 - - [02/Feb/2024:19:35:53 +0000] "POST /api/v1/events HTTP/1.1" 500 55 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [02/Feb/2024:19:41:35 +0000] "POST /api/v1/events HTTP/1.1" 500 55 "-" "PostmanRuntime/7.36.1"
+
+info: ::1 - - [02/Feb/2024:19:46:52 +0000] "POST /api/v1/events HTTP/1.1" 201 158 "-" "PostmanRuntime/7.36.1"
+
